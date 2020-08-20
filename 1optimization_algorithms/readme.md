@@ -4,7 +4,7 @@
 
 ### 来源
 
-[中国慕课网-数学建模](https://github.com/YaominJun/mathematical_modeling/tree/master/1optimization_algorithms)
+[中国慕课网-数学建模](https://www.icourse163.org/course/NWPU-1003545127?tid=1206999286#/info)
 
 ### 问题说明
 
