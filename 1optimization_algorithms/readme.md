@@ -4,7 +4,7 @@
 
 ### 来源
 
-[中国慕课网]: https://www.icourse163.org/learn/NWPU-1003545127?tid=1206999286#/learn/announce	"数学建模"
+[中国慕课网-数学建模](https://github.com/YaominJun/mathematical_modeling/tree/master/1optimization_algorithms)
 
 ### 问题说明
 
